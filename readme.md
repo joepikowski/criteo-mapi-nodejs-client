@@ -15,7 +15,7 @@
 
 ##### Initialization
 ``` js
-const Criteo_MAPI = require( './lib/mapi.js' );
+const Criteo_MAPI = require( 'criteo-mapi' );
 
 const criteo = new Criteo_MAPI( 'username', 'password' );
 ```
