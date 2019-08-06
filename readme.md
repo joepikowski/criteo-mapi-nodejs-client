@@ -90,7 +90,9 @@ criteo.getStats(query, './reports/results.csv')
 
 ### Further Documentation
 
-[MAPI Documentation (Criteo Help Center)](https://support.criteo.com/hc/en-us/sections/360000221105-Criteo-Marketing-API-)
+[Full Technical Documentation - JSDoc](http://criteo.work/mapi/jsdoc/Criteo_MAPI_Client.html)
+
+[MAPI Documentation (Criteo Help Center)](https://support.criteo.com/s/article?article=360001223829-Introduction-to-the-Criteo-Marketing-API&language=en_US)
 
 [MAPI Spec and Test Tool (Swagger)](https://api.criteo.com/marketing/swagger/ui/index#/)
 
