@@ -1,6 +1,6 @@
 {
   "name": "criteo-mapi",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "A NodeJS Client For Criteo MAPI Requests",
   "main": "./lib/mapi.js",
   "directories": {
@@ -9,7 +9,7 @@
   "dependencies": {
     "cookie": "^0.3.1",
     "moment": "^2.24.0",
-    "npm": "^6.4.1"
+    "npm": "^6.10.3"
   },
   "devDependencies": {},
   "scripts": {
