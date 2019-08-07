@@ -1,6 +1,6 @@
 {
   "name": "criteo-mapi",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "description": "A NodeJS Client For Criteo MAPI Requests",
   "main": "./lib/mapi.js",
   "directories": {
